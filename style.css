@@ -90,6 +90,7 @@ blockquote{
  border-radius: 10px;
  border-color: black;
  margin-left: auto;
+ box-shadow: 5px 5px rgb(53, 52, 52);
 }
 
 .button:hover {
@@ -105,9 +106,4 @@ blockquote{
     margin-top: 30px;
 }
 
-.galleri2 {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    margin-bottom: 30px;
-}
+
